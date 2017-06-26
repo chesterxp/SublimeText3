@@ -4,7 +4,8 @@ body {
 .clear {
   width: 100%;
   clear: both;
-  color: pink; }
+  color: pink;
+  display: flex; }
 
 .overpudlo {
   overflow: hidden; }
