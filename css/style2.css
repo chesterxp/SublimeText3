@@ -9,3 +9,16 @@ body{
 h1,h2{
 	font-size: 80px;
 }
+
+#box{
+	background: red;
+
+}
+
+#box .boxy{
+		width: 200px;
+		height: 200px;
+		background: green;
+		margin: 20px;
+		float: left;
+	}
