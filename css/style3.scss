@@ -8,7 +8,11 @@ body{
 	clear: both;
 	color: pink;
 }
-.pudło{
-	background: pink;
+
+.overpudlo{
+	overflow: hidden;
+}
+.pudlo{
+	
 	@include center;
 }
